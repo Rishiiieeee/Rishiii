@@ -1,0 +1,7 @@
+{
+  "name": "The Roots Of India",
+  "description": "Discover the Heritage. Understand the Science. Experience the Roots. Authentic heritage guides, architectural engineering, and verified pilgrimage navigation across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
